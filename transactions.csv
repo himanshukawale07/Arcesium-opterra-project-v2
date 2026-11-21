@@ -1,0 +1,7 @@
+trade_id,trade_date,ticker,asset_class,side,quantity,price,currency,status
+TRD001,2026-11-21,AAPL,Equity,Buy,1200,232.05,USD,Matched
+TRD002,2026-11-21,MSFT,Equity,Sell,500,510.2,USD,Validated
+TRD003,2026-11-20,UST30,Fixed Income,Buy,250000,98.75,USD,Settled
+TRD004,2026-11-20,SPY,ETF,Buy,800,682.4,USD,Settled
+TRD005,2026-11-19,TM,Equity,Buy,300,196.2,USD,Exception
+TRD006,2026-11-19,EURUSD,FX,Sell,100000,1.1542,EUR,Matched

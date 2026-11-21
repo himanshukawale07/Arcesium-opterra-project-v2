@@ -1,0 +1,9 @@
+security_id,security_name,ticker,asset_class,isin,cusip,sedol,issuer,currency,exchange,universe
+S001,Apple Inc.,AAPL,Equity,US0378331005,037833100,2046251,Apple Inc.,USD,NASDAQ,US Large Cap
+S002,Microsoft Corporation,MSFT,Equity,US5949181045,594918104,2588173,Microsoft Corporation,USD,NASDAQ,US Large Cap
+S003,Amazon.com Inc.,AMZN,Equity,US0231351067,023135106,2000019,Amazon.com Inc.,USD,NASDAQ,US Large Cap
+S004,NVIDIA Corporation,NVDA,Equity,US67066G1040,67066G104,2379504,NVIDIA Corporation,USD,NASDAQ,US Large Cap
+S005,Toyota Motor Corp.,TM,Equity,US8923313071,892331307,2900224,Toyota Motor Corporation,USD,NYSE,Global Equity
+S006,US Treasury 4.25% 2030,UST30,Fixed Income,US91282CJL63,91282CJL,BMF9XK7,United States Treasury,USD,OTC,Rates Universe
+S007,SPDR S&P 500 ETF,SPY,ETF,US78462F1030,78462F103,2840215,State Street,USD,NYSE Arca,ETF Universe
+S008,EUR/USD Spot,EURUSD,FX,-,-,-,-,EUR,OTC,FX Universe

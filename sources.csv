@@ -1,0 +1,7 @@
+source_id,provider,data_domain,integration_type,frequency,status
+SRC001,Vendor Alpha,Market prices,API adaptor (simulated),Intraday,Active
+SRC002,Vendor Beta,Market prices,File feed (simulated),Intraday,Active
+SRC003,Vendor Gamma,Market prices,API adaptor (simulated),Daily,Active
+SRC004,Global Custody Bank,Positions,Custodian file (simulated),Daily,Active
+SRC005,Internal OMS,Transactions,Internal API (conceptual),Event-driven,Conceptual
+SRC006,Corporate Actions Provider,Corporate actions,Vendor feed (simulated),Daily,Active

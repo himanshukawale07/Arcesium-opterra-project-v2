@@ -1,0 +1,6 @@
+event_id,security_id,ticker,event_type,announcement_date,ex_date,record_date,payment_date,terms,status
+CA001,S001,AAPL,Dividend,2026-11-01,2026-11-10,2026-11-11,2026-11-25,$0.26 per share,Announced
+CA002,S002,MSFT,Dividend,2026-11-05,2026-11-15,2026-11-16,2026-12-10,$0.91 per share,Confirmed
+CA003,S007,SPY,Distribution,2026-11-03,2026-11-20,2026-11-21,2026-11-30,Quarterly distribution,Pending
+CA004,S005,TM,Stock split,2026-10-20,2026-11-01,2026-11-02,2026-11-05,2-for-1 split,Processed
+CA005,S006,UST30,Coupon,2026-11-01,2026-11-15,2026-11-16,2026-11-30,4.25% coupon,Confirmed

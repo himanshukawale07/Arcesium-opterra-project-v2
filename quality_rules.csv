@@ -1,0 +1,9 @@
+rule_id,rule_name,domain,severity,rule_description,control_owner
+DQ-01,Required security ID,Security Master,Critical,Security ID must not be null,Reference Data
+DQ-02,Unique security ID,Security Master,High,Security ID must be unique,Reference Data
+DQ-03,Applicable ISIN present,Security Master,Medium,"Equity, ETF and fixed income should have ISIN",Reference Data
+DQ-04,Positive price,Prices,Critical,Price must be greater than zero,Pricing Operations
+DQ-05,Price timestamp present,Prices,High,Price observation requires timestamp,Pricing Operations
+DQ-06,Non-negative position quantity,Positions,High,Negative quantity requires short-position treatment,Investment Operations
+DQ-07,Trade ID present,Transactions,Critical,Trade identifier is mandatory,Investment Operations
+DQ-08,Unique counterparty ID,Counterparties,High,Counterparty identifier must be unique,Reference Data

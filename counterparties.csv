@@ -1,0 +1,5 @@
+counterparty_id,name,type,lei,country,status
+CP001,Global Custody Bank,Custodian,LEI000000000000001,United States,Active
+CP002,Alpha Prime Broker,Prime Broker,LEI000000000000002,United Kingdom,Active
+CP003,Beta Markets Ltd,Broker,LEI000000000000003,Singapore,Active
+CP004,Gamma Fund Services,Fund Administrator,LEI000000000000004,Ireland,Active
